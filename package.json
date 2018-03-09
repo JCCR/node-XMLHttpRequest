@@ -22,8 +22,4 @@
     "example": "./example"
   },
   "main": "./lib/XMLHttpRequest.js",
-  "browser": {
-    "fs": false,
-    "child_process": false
-  }
 }
